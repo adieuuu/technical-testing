@@ -1,3 +1,5 @@
+# Pertama jalankan npm install -g json-server lalu npx json-server --watch fakeDb.json --port 8000 untuk mejalankan server db dummy
+# Mohon untuk di npm install dulu untuk mendownload node_modules sebelum melakukan npm start
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
