@@ -1,0 +1,82 @@
+{
+  "listUser": [
+    {
+      "id": 1,
+      "name": "testing",
+      "nip": "123123123131231",
+      "noTelp": "021779377`",
+      "email": "testing@mail.com"
+    },
+    {
+      "id": 2,
+      "name": "Alexa",
+      "nip": 1231231231231,
+      "noTelp": "0217793772",
+      "email": "alexa@mail.com"
+    },
+    {
+      "id": 3,
+      "name": "Alexis",
+      "nip": 1231231231233,
+      "noTelp": "0217793773",
+      "email": "alexis@mail.com"
+    },
+    {
+      "id": 4,
+      "name": "Jack",
+      "nip": 1231231231234,
+      "noTelp": "0217793774",
+      "email": "jack@mail.com"
+    },
+    {
+      "id": 5,
+      "name": "Jackie",
+      "nip": 1231231231235,
+      "noTelp": "0217793775",
+      "email": "jackie@mail.com"
+    },
+    {
+      "id": 6,
+      "name": "Drinkwater",
+      "nip": 1231231231236,
+      "noTelp": "0217793775",
+      "email": "drink@mail.com"
+    },
+    {
+      "id": 7,
+      "name": "Bukayo Saka",
+      "nip": 1231231231237,
+      "noTelp": "0217793777",
+      "email": "Saka@mail.com"
+    },
+    {
+      "id": 8,
+      "name": "Zlatan Ibrahimovic",
+      "nip": 1231231231231,
+      "noTelp": "0217793778",
+      "email": "zlatan@mail.com"
+    },
+    {
+      "id": 9,
+      "name": "Cristiano Ronaldo",
+      "nip": 1231231231239,
+      "noTelp": "0217793779",
+      "email": "chris@mail.com"
+    },
+    {
+      "id": 10,
+      "name": "Lionel Messi",
+      "nip": 1231231231210,
+      "noTelp": "0217793710",
+      "email": "messi@mail.com"
+    },
+    {
+      "id": 11,
+      "name": "siap",
+      "nip": "291830123012",
+      "noTelp": "81238912731",
+      "email": "siap@mail.com",
+      "no": null
+    }
+  ]
+}
